@@ -1,0 +1,8 @@
+{
+    "actionButtons": {
+        "commands": [],
+        "defaultColor": "white",
+        "reloadButton": "↻",
+        "loadNpmCommands": false
+    }
+}
